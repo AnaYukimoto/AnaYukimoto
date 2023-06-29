@@ -3,7 +3,8 @@ Em um momento de minha vida fiz um curso online de Introdução à Linguagem de 
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anaelizayukimoto) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@AninhaYuki) [![Portfolio](https://img.shields.io/badge/Portfolio-E90A63?style=for-the-badge&logo=codepen&logoColor=white)](https://anaelizayukimoto.000webhostapp.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anaelizayukimoto) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@AninhaYuki) [![Portfolio](https://img.shields.io/badge/Portfolio-%3C%2F%3E-E90A63?style=for-the-badge)](https://anaelizayukimoto.000webhostapp.com)
+
 
 
 # 💻 Tech Stack:
