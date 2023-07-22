@@ -3,7 +3,7 @@ Em um momento de minha vida fiz um curso online de Introdução à Linguagem de 
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anaelizayukimoto) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@AninhaYuki) ![Gmail](https://img.shields.io/badge/Gmail-EB0C0C?style=for-the-badge&logo=Gmail&logoColor=white)](https://mailto:anaelizayuki@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-E90A63?style=for-the-badge)](https://anayukimoto.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anaelizayukimoto) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@AninhaYuki) [![Gmail](https://img.shields.io/badge/Gmail-EB0C0C?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:anaelizayuki@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-E90A63?style=for-the-badge)](https://anayukimoto.github.io/)
 
 
 # 💻 Tech Stack:
