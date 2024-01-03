@@ -17,8 +17,6 @@ Em um momento de minha vida fiz um curso online de Introdução à Linguagem de 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AnaYukimoto&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AnaYukimoto&limit=5&theme=monokai&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AnaYukimoto&icon=9&color=10)](https://visitcount.itsvg.in)
