@@ -1,5 +1,5 @@
 # 🤩 About Me:
-Em um momento de minha vida fiz um curso online de Introdução à Linguagem de Programação 👩‍💻, onde descobri uma área em que me encontrei. Hoje estou fazendo faculdade de Informática para Negócios, onde encontrei a junção de duas áreas que são a de gestão e tecnologia 💻, que sou apaixonada 🥰, pois me permitem expressar minha criatividade e me trazem gratificação pelo o que faço. Em resumo, sou uma pessoa otimista 😄, com dedicação e vontade de aprender 💪.
+Em um momento de minha vida fiz um curso online de Introdução à Linguagem de Programação 👩‍💻, onde descobri uma área em que me encontrei. Hoje sou técnica em Desenvolvimento de Sistemas e estou cursando tecnológo em Informática para Negócios, onde encontrei a junção de duas áreas em que sou apaixonada 🥰 são elas a de gestão e tecnologia, pois me permitem expressar minha criatividade e me trazem gratificação pelo o que faço. Em resumo, sou uma pessoa otimista 😄, com dedicação e vontade de aprender 💪.
 
 
 ## 🌐 Socials:
