@@ -1,4 +1,4 @@
-![FundoProfile](https://media.licdn.com/dms/image/v2/D4D16AQGtpvM4pWYQzw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1714961002774?e=1743033600&v=beta&t=N1VbvekA94xyOiWWHFQz2JKjeQ159OhsI4NTxUEeJSg)
+![FundoProfile](https://media.licdn.com/dms/image/v2/D4D16AQEbAelAXyQeIw/profile-displaybackgroundimage-shrink_350_1400/B4DZZqp24sGsAY-/0/1745546080814?e=1750896000&v=beta&t=eaudrtFZ_laRwBDZ73P3aakncJ6CNN2mULmn-PjLV5k)
 
 ## Sobre Mim:
 > Em um momento de minha vida fiz um curso online de Introdução à Linguagem de Programação 👩‍💻, onde descobri uma área em que me encontrei. Hoje sou técnica em Desenvolvimento de Sistemas e Tecnológa em Informática para Negócios, onde encontrei a junção de duas áreas em que sou apaixonada 🥰 são elas a de gestão e tecnologia, pois me permitem expressar minha criatividade e me trazem gratificação pelo o que faço. Em resumo, sou uma pessoa otimista 😄, com dedicação e vontade de aprender 💪.
