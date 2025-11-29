@@ -6,9 +6,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anaelizayukimoto) [![Gmail](https://img.shields.io/badge/Gmail-EB0C0C?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:anaelizayuki@gmail.com) 
 
 ## Meu Portfólio
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnaYukimoto&theme=monokai&bg_color=00000000&repo=anayukimoto.github.io)](https://github.com/AnaYukimoto/anayukimoto.github.io)
-
 [![Abrir Portfólio](https://img.shields.io/badge/Abrir_Portfólio-E90A63?style=for-the-badge)](https://anayukimoto.github.io/)
 
 ## Tecnologias:
